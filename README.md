@@ -4,6 +4,8 @@
     # This file is open source by SkyNFT
     # Need full node support !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     
+	# pls use chia-blockchain python3 venv, other wise will ask you to install blspy lib
+	
     # cd chia-blockchain
     # . activate
     # cd Your SkyNFT-Royalty_Spend dir
